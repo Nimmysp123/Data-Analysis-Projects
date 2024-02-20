@@ -15,7 +15,7 @@ Further analyzing the dataset, painting a vivid picture of viewer behaviors and 
 
 📈 Key Visual Insights:
 
-🌟 Top Actors & Directors: Used Dot and Dumbbell representation to uncover the most influential actors and directors within the dataset, offering insights into their prolific contributions.\\
+🌟 Top Actors & Directors: Used Dot and Dumbbell representation to uncover the most influential actors and directors within the dataset, offering insights into their prolific contributions.
 ⏱️ Most Watched Duration: Graphical representation to reveal viewer preferences in duration, highlighting patterns in the most watched durations across movies and TV shows.
 🌍 Top Movie Production Countries: Map representation showcasing the countries contributing significantly to movie production, providing a global perspective on film industry dynamics.
 🌟 Most Watched Genres: Bar chart representations elucidating the genres capturing maximum viewer attention.
